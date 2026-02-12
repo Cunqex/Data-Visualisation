@@ -1,4 +1,4 @@
 # Data-Visualisation
 
 
-![foto van Jo](SelfieBenoit.jpg)
+![foto van Benoit](FotoBenoit.jpg)
